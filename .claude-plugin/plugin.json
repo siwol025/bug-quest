@@ -1,0 +1,9 @@
+{
+  "name": "bug-quest",
+  "description": "에러를 RPG 몬스터로 등장시켜 디버깅을 턴제 전투로 진행하는 Claude 스킬",
+  "version": "1.0.0",
+  "author": {
+    "name": "cyj"
+  },
+  "license": "MIT"
+}
